@@ -1,0 +1,37 @@
+name: Projects
+source:
+  - icon: fa fa-cog
+    title: 🔒 Debased - decentralized database system (Fall 2018 – Spring 2019)
+    link:
+    description: debased aims to combine the power of blockchain and distributed systems with clean and robust development tools in order to provide a fast, reliable, and secure database solution to everyone.
+
+  - icon: fa fa-github
+    title: 💬 Node.js WebSocket chat server (Spring 2019)
+    link: https://github.com/JacksonJW/nodejs-chat-server
+    description: A chat server built with Node.js that uses socket.io to host users. The server uses the express.js framework to serve client HTML to those who connect.
+
+  - icon: fa fa-github
+    title: 🐍 Python multithreaded TCP chat server (Spring 2019)
+    link: https://www.google.com/
+    description: A multithreaded chat server built in python that hosts users via a client handler and sets a lock on shared resources.
+
+  - icon: fa fa-github
+    title: 👊 Bash commands remade in C (Spring 2018)
+    link: https://github.com/JacksonJW/bash-commands-remade-in-c
+    description: Bash commands such as change directory (cd), list information (ls), word count (wc), and concatenate and print (cat) remade using the C system calls API.
+  # - icon: fa fa-globe
+  #   title: Project
+  #   link: https://www.google.com/
+  #   description: Vim an case vidit sententiae, est at euismod laboramus efficiantur. Ei sit brute lorem, ea eam timeam viderer aliquid, cu integre omittam moderatius quo.
+  # - icon: fa fa-globe
+  #   title: Project
+  #   link: https://www.google.com/
+  #   description: Dicta causae meliore ex vel, in vix erant integre petentium. Vix ei nisl scripta recusabo, eam doming blandit facilisis.
+  # - icon: fa fa-cog
+  #   title: Project
+  #   link: https://www.google.com/
+  #   description: Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem, usu ex sapientem gubergren. Tamquam admodum ei usu.
+  # - icon: fa fa-cog
+  #   title: Project
+  #   link: https://www.google.com/
+  #   description: Essent putant indoctum sed in, reprimique persequeris neglegentur te quo. Nam rebum tractatos partiendo at, debet ubique oporteat ut his.

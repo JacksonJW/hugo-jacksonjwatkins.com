@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/JacksonJW/JacksonJW.github.io.git
+	branch = master

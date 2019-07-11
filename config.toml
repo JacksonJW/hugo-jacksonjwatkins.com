@@ -1,0 +1,49 @@
+baseurl = "https://jacksonjwatkins.com/"
+languageCode = "en-US"
+title = "Jackson Watkins"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "profile.jpeg"
+  author = "Jackson Watkins"
+  description = "My site serves as a portfolio, blog, and resume landing page for others."
+
+  # Custom assets can be linked with their paths relative to static/
+  #custom_css = []
+  #custom_js  = []
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params.social]
+  Github        = "JacksonJW"
+  Email         = "info@jacksonjwatkins.com"
+  #Twitter       = "username"
+  LinkedIn      = "jacksonjwatkins"
+  #Stackoverflow = "username"
+  #Medium        = "username"
+  #Telegram      = "username"
+
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 300
+  url = "https://s3-us-west-1.amazonaws.com/jacksonjwatkins.com/JacksonWatkinsResume.pdf"
