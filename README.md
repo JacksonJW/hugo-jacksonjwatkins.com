@@ -1,7 +1,7 @@
 # hugo-jacksonjwatkins.com
 the hugo guts for creating my personal website hosted through github.io
 
-###Installation
+### Installation
 
 - To run this locally, `git clone https://github.com/JacksonJW/hugo-jacksonjwatkins.com.git`
 - Run the website on your local with `hugo server -D`
