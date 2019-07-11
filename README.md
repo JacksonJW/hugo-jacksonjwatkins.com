@@ -1,5 +1,5 @@
 # hugo-jacksonjwatkins.com
-the hugo guts for creating my personal website hosted through github.io
+the hugo innards for creating my personal website hosted through github.io
 
 ### Installation
 
