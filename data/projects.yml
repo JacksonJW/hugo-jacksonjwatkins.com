@@ -12,7 +12,7 @@ source:
 
   - icon: fa fa-github
     title: 🐍 Python multithreaded TCP chat server (Spring 2019)
-    link: https://www.google.com/
+    link: https://github.com/JacksonJW/python-chat-server
     description: A multithreaded chat server built in python that hosts users via a client handler and sets a lock on shared resources.
 
   - icon: fa fa-github
