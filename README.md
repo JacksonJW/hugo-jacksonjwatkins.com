@@ -10,7 +10,7 @@ The hugo innards for creating my personal website hosted through github.io.
 
 ### Update Instructions
 
-- Make changes within the 'themes/hugo-sustain/' directory to make changes to the site
+- Make changes within the 'themes/<THEME_NAME>>/' directory to make changes to the site
 
 ### Deploy Site Instructions
 
