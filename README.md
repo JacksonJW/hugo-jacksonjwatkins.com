@@ -15,4 +15,4 @@ The hugo innards for creating my personal website hosted through github.io.
 ### Deploy Site Instructions
 
 - To deploy/commit the site with current changes to 'JacksonJW.github.io' and 'hugo-jacksonjwatkins.com'(innards) repos, ensure 'deploy.sh' is executable `chmod +x deploy.sh`.
-- Deploy `./deploy.sh <COMMIT_MESSAGE>`
+- Deploy `./deploy.sh "<COMMIT_MESSAGE>"`
