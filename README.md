@@ -10,6 +10,4 @@ The hugo innards for creating my personal website hosted through github.io.
 
 ### Deploy Site Instructions
 
-- To deploy the site with current changes to 'jacksonjwatkins.com' and update 'JacksonJW.github.io' public repo, `./deploy.sh`
-- Commit 'hugo-jacksonjwatkins.com'
-  project repo changes
+- To deploy the site with current changes to update 'JacksonJW.github.io' and 'hugo-jacksonjwatkins.com'(innards) repos, `./deploy.sh`
