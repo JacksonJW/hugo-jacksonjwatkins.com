@@ -1,6 +1,11 @@
 name: Projects
 source:
   - icon: fa fa-cog
+    title: 🐦 Twitter-trending-sms - personal serverless app (Summer 2019 - Fall 2019)
+    link:
+    description: An app that sends me a text message of the top 5 trending topics on Twitter for the day.
+
+  - icon: fa fa-cog
     title: 🔒 Debased - decentralized database system (Fall 2018 – Spring 2019)
     link:
     description: debased aims to combine the power of blockchain and distributed systems with clean and robust development tools in order to provide a fast, reliable, and secure database solution to everyone.
