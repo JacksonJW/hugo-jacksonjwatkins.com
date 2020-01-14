@@ -1,7 +1,12 @@
 name: Projects
 source:
   - icon: fa fa-cog
-    title: 🐦 Twitter trending sms - personal serverless app (Summer 2019 - Fall 2019)
+    title: 🐳 Docker web app - multi-container calculator app (Winter 2019-2020)
+    link:
+    description: A multi-container web app that uses nginx, redis, and postgres. Created from following along with 'Docker and Kubernetes The Complete Guide' docker udemy video.
+
+  - icon: fa fa-cog
+    title: 🐦 Twitter trending sms - personal serverless app (Summer 2019 - Winter 2020)
     link:
     description: An app that sends me a text message of the top 5 trending topics on Twitter for the day.
 
