@@ -41,7 +41,7 @@ theme = "hugo-sustain"
   name = "projects"
   identifier = "projects"
   weight = 200
-  url = "/projects/"
+  url = "https://github.com/JacksonJW"
 [[menu.main]]
   name = "resume"
   identifier = "resume"
