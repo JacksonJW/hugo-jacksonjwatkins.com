@@ -37,8 +37,10 @@ theme = "hugo-sustain"
   identifier = "projects"
   weight = 200
   url = "https://github.com/JacksonJW"
+  hrefTargetBlank = true
 [[menu.main]]
   name = "resume"
   identifier = "resume"
   weight = 300
   url = "https://s3-us-west-1.amazonaws.com/jacksonjwatkins.com/JacksonWatkinsResume.pdf"
+  hrefTargetBlank = true
